@@ -1,0 +1,10 @@
+Diferenças entre aula e gabarito:
+
+HTML
+- Linha 23;
+
+CSS
+- @media Resoluções;
+- Linha 133;
+- Linha 200;
+- Linha 386.
